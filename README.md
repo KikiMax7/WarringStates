@@ -1,6 +1,6 @@
 # WarringStates
 The repository is demonstration of sample result of the Game
-### The game could be retrived via [WarringStates-Game](https://github.com/KikiMax7/WarringStates/blob/master/game.jar)
+### The game could be retrieved via [WarringStates-game.jar](https://github.com/KikiMax7/WarringStates/blob/master/game.jar)
 
 ## Problem Description
 
