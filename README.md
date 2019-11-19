@@ -27,8 +27,6 @@ Each kingdom has a different number of character cards:
 - Wei: three cards
 - Yan: two cards
 
-The names of the characters for each kingdom are listed in the file [characters.md](src/gui/assets/characters.md).
-
 To start the game, the 36 cards are shuffled and laid out in a 6x6 grid.
 The flags of the seven kingdoms are laid next to the grid.
 Players take turns to collect characters to their side, by moving Zhang Yi around the grid.
@@ -89,7 +87,5 @@ All moves in a move sequence must be valid.
 The entire history of a game can be reconstructed from a combination of a placement string representing the board setup, and a move sequence representing the player's moves.
 
 #### Game Screenshots
-<img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/welcome.png"  width="40%" height="40%>
-<img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/Selection.png"  width="40%" height="40%>
-<img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/GamePage.png"  width="40%" height="40%> 
-<img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/AIPage.png"  width="40%" height="40%>               
+<img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/welcome.png"  width="50%" height="50%"><img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/Selection.png"  width="50%" height="50%">
+<img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/GamePage.png"  width="50%" height="50%"><img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/AIPage.png"  width="50%" height="50%">
