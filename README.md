@@ -42,33 +42,6 @@ The game ends when Zhang Yi cannot move, that is, when there are no cards in any
 The player who holds the greatest number of flags at the end of the game wins.
 If two or more players hold the same number of flags, the player who holds the flag of the kingdom with the greatest number of characters wins.
 
-An example game sequence follows below.
-After shuffling the cards, the board setup is as follows:
-
-![board](assets/setup.png)
-
-Player 1 moves Zhang Yi south to take Marquess Wen.
-She takes the flag of Wei, as she is the only player who holds characters from Wei.
-
-![board](assets/move1.png)
-
-Then Player 2 moves Zhang Yi east to collect King Jian, also collecting Lord Menchang on the way.
-He takes the flag of Qi, as he is the only player who holds characters from Qi.
-
-![board](assets/move2.png)
-
-It is Player 1's turn again. She moves Zhang Yi north to collect King Huanhui, and takes the flag of Han:
-
-![board](assets/move3.png)
-
-Player 2 then moves Zhang Yi west to collect Lord Xinling.
-As he now holds an equal number of cards from Wei as Player 1, he takes the flag of Wei from Player 1.
-
-Play continues in this fashion until there is no legal move available.
-The flags for each player are counted.
-As Player 2 holds four flags and Player 1 only holds three, Player 2 wins the game.
-
-![board](assets/finish.png)
 
 #### Board
 
@@ -115,6 +88,13 @@ The sequence of moves that led to a particular game state is encoded as a sequen
 All moves in a move sequence must be valid.
 The entire history of a game can be reconstructed from a combination of a placement string representing the board setup, and a move sequence representing the player's moves.
 
+### Game Screenshots
+<img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/welcome.png" width="40%" height="40%>
+                                                                                                      
+<img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/Selection.png" width="40%" height="40%>
+                                                                                                        
+<img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/GamePage.png" width="40%" height="40%>                                                                                           
+<img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/AIPage.png" width="40%" height="40%> 
 
 
 
