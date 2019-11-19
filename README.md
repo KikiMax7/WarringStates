@@ -86,6 +86,6 @@ The sequence of moves that led to a particular game state is encoded as a sequen
 All moves in a move sequence must be valid.
 The entire history of a game can be reconstructed from a combination of a placement string representing the board setup, and a move sequence representing the player's moves.
 
-#### Game Screenshots
+### Sample game Screenshots
 <img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/welcome.png"  width="50%" height="50%"><img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/Selection.png"  width="50%" height="50%">
 <img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/GamePage.png"  width="50%" height="50%"><img src="https://github.com/KikiMax7/WarringStates/blob/master/demo/AIPage.png"  width="50%" height="50%">
